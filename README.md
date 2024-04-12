@@ -6,7 +6,6 @@ This Python script allows you to fetch current Ethereum gas prices (safe low, st
 
 - Python 3.x
 - `requests` library (install using `pip install requests`)
-- Etherscan API key (get one from [Etherscan](https://etherscan.io/apis))
 
 ## Usage
 
